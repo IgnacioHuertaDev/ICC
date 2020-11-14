@@ -5,7 +5,7 @@ const Titulo = () => {
 
     return (  
         <>
-            <Title><h1>Hola</h1></Title>
+            <Title><h1>cambio Mariano</h1></Title>
         </>
     );
 }
